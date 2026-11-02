@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Nōted",
+    "slug": "noted",
+    "scheme": "noted",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F4F0E8",
+    "ios": {
+      "bundleIdentifier": "com.tingcc.noted",
+      "supportsTablet": false,
+      "entitlements": { "com.apple.security.application-groups": ["group.com.tingcc.noted"] }
+    },
+    "android": {
+      "package": "com.tingcc.noted",
+      "adaptiveIcon": { "backgroundColor": "#F4F0E8", "foregroundImage": "./assets/android-icon-foreground.png" }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      ["expo-splash-screen", { "backgroundColor": "#F4F0E8", "image": "./assets/splash-icon.png", "imageWidth": 120 }],
+      "@bacons/apple-targets",
+      ["react-native-android-widget", {
+        "fonts": ["./targets/noted-widget/NotedSerif.otf"],
+        "widgets": [{
+          "name": "NotedDaily",
+          "label": "Nōted · Daily note",
+          "description": "Today's note, refreshed at midnight",
+          "minWidth": "250dp", "minHeight": "110dp",
+          "targetCellWidth": 4, "targetCellHeight": 2,
+          "updatePeriodMillis": 1800000,
+          "resizeMode": "horizontal|vertical"
+        }]
+      }]
+    ],
+    "experiments": { "typedRoutes": false }
+  }
+}

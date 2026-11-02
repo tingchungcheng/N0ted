@@ -1,0 +1,640 @@
+{
+ "schemaVersion": 2,
+ "items": [
+  {
+   "id": "hist-01",
+   "type": "quote",
+   "text": "学而不思则罔，思而不学则殆。",
+   "author": "孔子",
+   "source": "《论语·为政》",
+   "sourceUrl": null,
+   "tags": [
+    "historical",
+    "inspiring"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "hist-02",
+   "type": "quote",
+   "text": "以铜为镜，可以正衣冠；以古为镜，可以知兴替；以人为镜，可以明得失。",
+   "author": "李世民",
+   "source": "《旧唐书·魏徵传》",
+   "sourceUrl": null,
+   "tags": [
+    "historical"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "hist-03",
+   "type": "quote",
+   "text": "前事不忘，后事之师。",
+   "author": "刘向（编）",
+   "source": "《战国策·赵策一》",
+   "sourceUrl": null,
+   "tags": [
+    "historical"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "hist-04",
+   "type": "quote",
+   "text": "人生自古谁无死，留取丹心照汗青。",
+   "author": "文天祥",
+   "source": "《过零丁洋》",
+   "sourceUrl": null,
+   "tags": [
+    "historical",
+    "inspiring"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "hist-05",
+   "type": "quote",
+   "text": "大江东去，浪淘尽，千古风流人物。",
+   "author": "苏轼",
+   "source": "《念奴娇·赤壁怀古》",
+   "sourceUrl": null,
+   "tags": [
+    "historical"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "hist-06",
+   "type": "quote",
+   "text": "Those who cannot remember the past are condemned to repeat it.",
+   "author": "George Santayana",
+   "source": "The Life of Reason",
+   "sourceUrl": null,
+   "tags": [
+    "historical"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "hist-07",
+   "type": "quote",
+   "text": "The unexamined life is not worth living.",
+   "author": "Socrates",
+   "source": "Plato, Apology",
+   "sourceUrl": null,
+   "tags": [
+    "historical",
+    "inspiring"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "hist-08",
+   "type": "quote",
+   "text": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.",
+   "author": "Abraham Lincoln",
+   "source": "Gettysburg Address",
+   "sourceUrl": null,
+   "tags": [
+    "historical"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "hist-09",
+   "type": "quote",
+   "text": "Veni, vidi, vici. — I came, I saw, I conquered.",
+   "author": "Julius Caesar",
+   "source": "as recorded by Suetonius, The Twelve Caesars",
+   "sourceUrl": null,
+   "tags": [
+    "historical",
+    "wit"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "insp-01",
+   "type": "quote",
+   "text": "千里之行，始于足下。",
+   "author": "老子",
+   "source": "《道德经》第六十四章",
+   "sourceUrl": null,
+   "tags": [
+    "inspiring"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "insp-02",
+   "type": "quote",
+   "text": "路漫漫其修远兮，吾将上下而求索。",
+   "author": "屈原",
+   "source": "《离骚》",
+   "sourceUrl": null,
+   "tags": [
+    "inspiring",
+    "historical"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "insp-03",
+   "type": "quote",
+   "text": "长风破浪会有时，直挂云帆济沧海。",
+   "author": "李白",
+   "source": "《行路难·其一》",
+   "sourceUrl": null,
+   "tags": [
+    "inspiring"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "insp-04",
+   "type": "quote",
+   "text": "老骥伏枥，志在千里；烈士暮年，壮心不已。",
+   "author": "曹操",
+   "source": "《龟虽寿》",
+   "sourceUrl": null,
+   "tags": [
+    "inspiring",
+    "historical"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "insp-05",
+   "type": "quote",
+   "text": "会当凌绝顶，一览众山小。",
+   "author": "杜甫",
+   "source": "《望岳》",
+   "sourceUrl": null,
+   "tags": [
+    "inspiring"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "insp-06",
+   "type": "quote",
+   "text": "“Hope” is the thing with feathers — that perches in the soul.",
+   "author": "Emily Dickinson",
+   "source": "“Hope” is the thing with feathers",
+   "sourceUrl": null,
+   "tags": [
+    "inspiring",
+    "calm"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "insp-07",
+   "type": "quote",
+   "text": "If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
+   "author": "Henry David Thoreau",
+   "source": "Walden",
+   "sourceUrl": null,
+   "tags": [
+    "inspiring"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "insp-08",
+   "type": "quote",
+   "text": "I am the master of my fate, I am the captain of my soul.",
+   "author": "William Ernest Henley",
+   "source": "Invictus",
+   "sourceUrl": null,
+   "tags": [
+    "inspiring"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "insp-09",
+   "type": "quote",
+   "text": "To strive, to seek, to find, and not to yield.",
+   "author": "Alfred, Lord Tennyson",
+   "source": "Ulysses",
+   "sourceUrl": null,
+   "tags": [
+    "inspiring"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "calm-01",
+   "type": "quote",
+   "text": "行到水穷处，坐看云起时。",
+   "author": "王维",
+   "source": "《终南别业》",
+   "sourceUrl": null,
+   "tags": [
+    "calm"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "calm-02",
+   "type": "quote",
+   "text": "采菊东篱下，悠然见南山。",
+   "author": "陶渊明",
+   "source": "《饮酒·其五》",
+   "sourceUrl": null,
+   "tags": [
+    "calm"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "calm-03",
+   "type": "quote",
+   "text": "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。",
+   "author": "苏轼",
+   "source": "《定风波·莫听穿林打叶声》",
+   "sourceUrl": null,
+   "tags": [
+    "calm",
+    "inspiring"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "calm-04",
+   "type": "quote",
+   "text": "人闲桂花落，夜静春山空。",
+   "author": "王维",
+   "source": "《鸟鸣涧》",
+   "sourceUrl": null,
+   "tags": [
+    "calm"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "calm-05",
+   "type": "quote",
+   "text": "晚来天欲雪，能饮一杯无？",
+   "author": "白居易",
+   "source": "《问刘十九》",
+   "sourceUrl": null,
+   "tags": [
+    "calm",
+    "love"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "calm-06",
+   "type": "quote",
+   "text": "I went to the woods because I wished to live deliberately, to front only the essential facts of life.",
+   "author": "Henry David Thoreau",
+   "source": "Walden",
+   "sourceUrl": null,
+   "tags": [
+    "calm"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "calm-07",
+   "type": "quote",
+   "text": "I wandered lonely as a cloud that floats on high o’er vales and hills.",
+   "author": "William Wordsworth",
+   "source": "I Wandered Lonely as a Cloud",
+   "sourceUrl": null,
+   "tags": [
+    "calm"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "calm-08",
+   "type": "quote",
+   "text": "There is a pleasure in the pathless woods, there is a rapture on the lonely shore.",
+   "author": "Lord Byron",
+   "source": "Childe Harold’s Pilgrimage",
+   "sourceUrl": null,
+   "tags": [
+    "calm"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "calm-09",
+   "type": "quote",
+   "text": "Rest is not idleness, and to lie sometimes on the grass under trees on a summer’s day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time.",
+   "author": "John Lubbock",
+   "source": "The Use of Life",
+   "sourceUrl": null,
+   "tags": [
+    "calm"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "love-01",
+   "type": "quote",
+   "text": "海内存知己，天涯若比邻。",
+   "author": "王勃",
+   "source": "《送杜少府之任蜀州》",
+   "sourceUrl": null,
+   "tags": [
+    "love"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "love-02",
+   "type": "quote",
+   "text": "但愿人长久，千里共婵娟。",
+   "author": "苏轼",
+   "source": "《水调歌头·明月几时有》",
+   "sourceUrl": null,
+   "tags": [
+    "love",
+    "calm"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "love-03",
+   "type": "quote",
+   "text": "两情若是久长时，又岂在朝朝暮暮。",
+   "author": "秦观",
+   "source": "《鹊桥仙·纤云弄巧》",
+   "sourceUrl": null,
+   "tags": [
+    "love"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "love-04",
+   "type": "quote",
+   "text": "执子之手，与子偕老。",
+   "author": "佚名",
+   "source": "《诗经·邶风·击鼓》",
+   "sourceUrl": null,
+   "tags": [
+    "love",
+    "historical"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "love-05",
+   "type": "quote",
+   "text": "身无彩凤双飞翼，心有灵犀一点通。",
+   "author": "李商隐",
+   "source": "《无题·昨夜星辰昨夜风》",
+   "sourceUrl": null,
+   "tags": [
+    "love"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "love-06",
+   "type": "quote",
+   "text": "Love is patient, love is kind.",
+   "author": "Paul the Apostle",
+   "source": "1 Corinthians 13:4",
+   "sourceUrl": null,
+   "tags": [
+    "love"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "love-07",
+   "type": "quote",
+   "text": "Shall I compare thee to a summer’s day? Thou art more lovely and more temperate.",
+   "author": "William Shakespeare",
+   "source": "Sonnet 18",
+   "sourceUrl": null,
+   "tags": [
+    "love"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "love-08",
+   "type": "quote",
+   "text": "How do I love thee? Let me count the ways.",
+   "author": "Elizabeth Barrett Browning",
+   "source": "Sonnets from the Portuguese, 43",
+   "sourceUrl": null,
+   "tags": [
+    "love"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "love-09",
+   "type": "quote",
+   "text": "Whatever our souls are made of, his and mine are the same.",
+   "author": "Emily Brontë",
+   "source": "Wuthering Heights",
+   "sourceUrl": null,
+   "tags": [
+    "love"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "wit-01",
+   "type": "quote",
+   "text": "I can resist everything except temptation.",
+   "author": "Oscar Wilde",
+   "source": "Lady Windermere’s Fan",
+   "sourceUrl": null,
+   "tags": [
+    "wit"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "wit-02",
+   "type": "quote",
+   "text": "We are all in the gutter, but some of us are looking at the stars.",
+   "author": "Oscar Wilde",
+   "source": "Lady Windermere’s Fan",
+   "sourceUrl": null,
+   "tags": [
+    "wit",
+    "inspiring"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "wit-03",
+   "type": "quote",
+   "text": "To love oneself is the beginning of a lifelong romance.",
+   "author": "Oscar Wilde",
+   "source": "An Ideal Husband",
+   "sourceUrl": null,
+   "tags": [
+    "wit",
+    "love"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "wit-04",
+   "type": "quote",
+   "text": "The report of my death was an exaggeration.",
+   "author": "Mark Twain",
+   "source": "New York Journal, 1897",
+   "sourceUrl": null,
+   "tags": [
+    "wit"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "wit-05",
+   "type": "quote",
+   "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+   "author": "Jane Austen",
+   "source": "Pride and Prejudice",
+   "sourceUrl": null,
+   "tags": [
+    "wit",
+    "love"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "wit-06",
+   "type": "quote",
+   "text": "Brevity is the soul of wit.",
+   "author": "William Shakespeare",
+   "source": "Hamlet",
+   "sourceUrl": null,
+   "tags": [
+    "wit"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "wit-07",
+   "type": "quote",
+   "text": "Few things are harder to put up with than the annoyance of a good example.",
+   "author": "Mark Twain",
+   "source": "Pudd’nhead Wilson",
+   "sourceUrl": null,
+   "tags": [
+    "wit"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "wit-08",
+   "type": "quote",
+   "text": "知之为知之，不知为不知，是知也。",
+   "author": "孔子",
+   "source": "《论语·为政》",
+   "sourceUrl": null,
+   "tags": [
+    "wit",
+    "historical"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "wit-09",
+   "type": "quote",
+   "text": "“子非鱼，安知鱼之乐？”“子非我，安知我不知鱼之乐？”",
+   "author": "庄子",
+   "source": "《庄子·秋水》",
+   "sourceUrl": null,
+   "tags": [
+    "wit",
+    "calm"
+   ],
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T00:00:00Z"
+  },
+  {
+   "id": "post-01",
+   "type": "post",
+   "title": "慢慢的周日 · Slow Sunday",
+   "text": "一杯热茶，一本旧书，窗外的雨下了一整个下午。把日子过慢一点，也很好。",
+   "tags": [
+    "calm",
+    "love"
+   ],
+   "xhsUrl": "https://www.xiaohongshu.com/explore/PLACEHOLDER-slow-sunday",
+   "attribution": {
+    "platform": "小红书",
+    "handle": "@tingcc"
+   },
+   "imageUrl": null,
+   "publishedAt": "2026-11-01T08:00:00Z"
+  },
+  {
+   "id": "post-02",
+   "type": "post",
+   "title": "在老街走了一下午",
+   "text": "青石板、旧招牌、巷口的糖水铺。每一条老街都在悄悄讲故事。",
+   "tags": [
+    "historical",
+    "inspiring"
+   ],
+   "xhsUrl": "https://www.xiaohongshu.com/explore/PLACEHOLDER-old-street",
+   "attribution": {
+    "platform": "小红书",
+    "handle": "@tingcc"
+   },
+   "imageUrl": null,
+   "publishedAt": "2026-11-02T08:00:00Z"
+  }
+ ]
+}
